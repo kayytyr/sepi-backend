@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Rahasia
+.env
+
+# Catatan pribadi Claude Code
+CLAUDE.md
